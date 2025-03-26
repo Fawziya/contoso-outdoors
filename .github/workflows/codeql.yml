@@ -33,9 +33,11 @@ jobs:
       fail-fast: false
       matrix:
         include:
-        - language: javascript-typescript
+        - language: actions
           build-mode: none
-        - language: python
+        - language: csharp
+          build-mode: none
+        - language: javascript-typescript
           build-mode: none
         # Add or remove languages as needed. Ensure this list matches your project.
 
