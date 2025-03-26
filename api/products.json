@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Mountain Boots",
+    "description": "Sturdy, waterproof mountain boots designed for the toughest terrains.",
+    "price": 299.99
+  },
+  {
+    "id": 2,
+    "name": "Trail Running Shoes",
+    "description": "Lightweight and durable running shoes for trail runners.",
+    "price": 159.99
+  },
+  {
+    "id": 3,
+    "name": "Camping Tent",
+    "description": "Spacious and weather-resistant camping tent for four people.",
+    "price": 349.99
+  }
+]

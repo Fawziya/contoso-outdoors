@@ -1,0 +1,7 @@
+#!/bin/bash
+
+if test -d node_modules; then
+  exit 0
+fi
+
+nohup sh -c "npm ci && touch npm-ci-done" >/dev/null 2>&1 &
